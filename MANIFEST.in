@@ -1,4 +1,6 @@
 include LICENSE
+include LICENSE_NOTES.md
+recursive-include LICENSES
 recursive-include cmake *
 recursive-include tools *
 include VERSION_NUMBER
